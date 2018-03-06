@@ -1,4 +1,4 @@
-![logo](_media/icon.svg)
+# ![logo](_media/icon.svg)
 
 # docsify <small>1.3.3</small>
 
