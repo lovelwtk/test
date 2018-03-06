@@ -1,12 +1,6 @@
 # ![logo](_media/icon.svg)
 
-# docsify <small>1.3.3</small>
-
-> A magical documentation site generator.
-
-- Simple and lightweight (~12kb gzipped)
-- Multiple themes
-- Not build static html files
+# 我的博客<small>1.3.3</small>
 
 
 [GitHub](https://github.com/QingWei-Li/docsify/)
