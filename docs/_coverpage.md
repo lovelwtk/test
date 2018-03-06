@@ -14,7 +14,7 @@
 
 <!-- background image -->
 
-![](_media/bg.png)
+![](_media/banner.jpg)
 
 <!-- background color -->
 
